@@ -1,14 +1,52 @@
-### Olá! Seja muito bem-vindo (a)!
-##
+<p align="center">
+  <a href="https://github.com/VictorOVasconcelos">
+    <img
+      align="center"
+      height="150em"
+      src="https://github-readme-stats.vercel.app/api?username=VictorOVasconcelos&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight"
+    />
+  </a>
+  <a href="https://github.com/VictorOVasconcelos">
+    <img
+      align="center"
+      height="150em"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorOVasconcelos&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=tokyonight"
+    />
+  </a>
+</p>
 
-<div align="center">
-  <a href="https://github.com/Victor-Olimpio">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=VictorOVasconcelos&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorOVasconcelos&layout=compact&langs_count=7&theme=radical"/>
-</div>
-  <div align="center" style="display: inline_block"><br>
-  <img align="center" alt="Victor-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Victor-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Victor-JS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Victor-Node" height="40" width"50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-</div>
+
+<p align="center">
+  <a href="https://github.com/VictorOVasconcelos">
+    <img
+      align="center"
+      src="https://github-profile-trophy.vercel.app/?username=VictorOVasconcelos&theme=onedark&no-frame=true&row=1&&margin-w=20&no-bg=true"
+    />
+  </a>
+</a>
+</p>
+
+<h3 align="center">Trabalhando em:</h3>
+
+<p align="center">
+  <a href="https://github.com/VictorOVasconcelos/coming-soon-page">
+    <img
+      align="center"
+      height="120em"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=VictorOVasconcelos&repo=coming-soon-page&theme=tokyonight">
+    </img>
+  </a>
+</p>
+
+<h3 align="center">Eu</h3>
+
+<p align="center">
+  <a href="https://www.instagram.com/viictor0807/">
+    <img
+      align="center"
+      src="https://img.shields.io/badge/Instagram-1C1C1C?style=for-the-badge&logo=instagram&logoColor=00FFFF"
+    />
+  </a>
+</p>
+<h5 align="center">victorprogramadorvasconcelos@gmail.com</h5>
+</details
