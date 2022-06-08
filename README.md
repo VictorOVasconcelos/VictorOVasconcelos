@@ -29,7 +29,7 @@
 <h3 align="center">Trabalhando em:</h3>
 
 <p align="center">
-  <a href="https://github.com/VictorOVasconcelos/coming-soon-page">
+  <a href="https://github.com/VictorOVasconcelos/rock-paper-scissor">
     <img
       align="center"
       height="120em"
