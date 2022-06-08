@@ -33,7 +33,7 @@
     <img
       align="center"
       height="120em"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=VictorOVasconcelos&repo=coming-soon-page&theme=tokyonight">
+      src="https://github-readme-stats.vercel.app/api/pin/?username=VictorOVasconcelos&repo=rock-paper-scissor&theme=tokyonight">
     </img>
   </a>
 </p>
