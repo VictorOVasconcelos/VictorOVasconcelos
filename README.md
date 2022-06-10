@@ -29,11 +29,11 @@
 <h3 align="center">Trabalhando em:</h3>
 
 <p align="center">
-  <a href="https://github.com/VictorOVasconcelos/rock-paper-scissor">
+  <a href="https://github.com/VictorOVasconcelos/tip-calculator">
     <img
       align="center"
       height="120em"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=VictorOVasconcelos&repo=rock-paper-scissor&theme=tokyonight">
+      src="https://github-readme-stats.vercel.app/api/pin/?username=VictorOVasconcelos&repo=tip-calculator&theme=tokyonight">
     </img>
   </a>
 </p>
