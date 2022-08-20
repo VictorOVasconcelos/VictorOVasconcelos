@@ -15,19 +15,6 @@
   </a>
 </p>
 
-
-<p align="center">
-  <a href="https://github.com/VictorOVasconcelos">
-    <img
-      align="center"
-      src="https://github-profile-trophy.vercel.app/?username=VictorOVasconcelos&theme=onedark&no-frame=true&row=1&&margin-w=20&no-bg=true"
-    />
-  </a>
-</a>
-</p>
-
-<h3 align="center">Eu</h3>
-
 <p align="center">
   <a href="https://www.instagram.com/viictor0807/">
     <img
